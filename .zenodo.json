@@ -1,5 +1,9 @@
 {
-    "description": "Parameterization proprietary Geode-solutions OpenGeode module",
-    "title": "Geode-Parameterization",
-    "creators": [{"name": "Geode-solutions"}]
+    "description": "Numerics proprietary Geode-solutions OpenGeode module",
+    "title": "Geode-Numerics",
+    "creators": [
+        {
+            "name": "Geode-solutions"
+        }
+    ]
 }

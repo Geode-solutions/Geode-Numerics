@@ -1,11 +1,11 @@
-<h1 align="center">Geode-Parameterization<sup><i>by Geode-solutions</i></sup></h1>
-<h3 align="center">Parameterization proprietary Geode-solutions OpenGeode module</h3>
+<h1 align="center">Geode-Numerics<sup><i>by Geode-solutions</i></sup></h1>
+<h3 align="center">Numerics proprietary Geode-solutions OpenGeode module</h3>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Windows&logo=windows&logoColor=white&message=support&color=success" alt="Windows support">
   <img src="https://img.shields.io/static/v1?label=Ubuntu&logo=Ubuntu&logoColor=white&message=support&color=success" alt="Ubuntu support">
   <img src="https://img.shields.io/static/v1?label=Red%20Hat&logo=Red-Hat&logoColor=white&message=support&color=success" alt="Red Hat support">
-  <img src="https://img.shields.io/pypi/v/geode-parameterization" alt="PyPI" >
+  <img src="https://img.shields.io/pypi/v/geode-numerics" alt="PyPI" >
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## Introduction
 
-Geode-Parameterization is an [OpenGeode](https://github.com/Geode-solutions/OpenGeode) module providing parameterization algorithms.
+Geode-Numerics is an [OpenGeode](https://github.com/Geode-solutions/OpenGeode) module providing various algorithms based on numerical solvers.
 This is a proprietary module from [Geode-solutions](https://geode-solutions.com), you will need a license file to use it. 
 Please contact us directly for more information by [slack](https://slackin-opengeode.herokuapp.com) or by [mail](mailto:contact@geode-solutions.com).
 
@@ -30,7 +30,7 @@ Please contact us directly for more information by [slack](https://slackin-openg
 This repository provides Jupyter notebooks used as example usage of the module.
 For more general documentation on OpenGeode, check out our live documentation, visit [docs.geode-solutions.com](https://docs.geode-solutions.com).
 
-Installing Geode-Conversion is done by using pip command ```pip install Geode-Parameterization``` and add ```import geode_parameterization``` in your Python script.
+Installing Geode-Conversion is done by using pip command ```pip install Geode-Numerics``` and add ```import geode_numerics``` in your Python script.
 
 ## Questions
 
