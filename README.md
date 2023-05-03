@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://slackin-opengeode.herokuapp.com">
-    <img src="https://slackin-opengeode.herokuapp.com/badge.svg" alt="Slack invite">
+  <a href="https://opengeode-slack-invite.herokuapp.com">
+    <img src="https://opengeode-slack-invite.herokuapp.com/badge.svg" alt="Slack invite">
   </a>
   <a href="https://doi.org/10.5281/zenodo.4427897">
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4427897.svg" alt="DOI">
@@ -36,4 +36,4 @@ Installing Geode-Conversion is done by using pip command ```pip install Geode-Nu
 
 For questions and support please use the official [slack](https://slackin-opengeode.herokuapp.com) and go to the channel #help. The issue list of this repo is exclusively for bug reports and feature requests. 
 
-Copyright (c) 2019 - 2021, Geode-solutions
+Copyright (c) 2019 - 2023, Geode-solutions
